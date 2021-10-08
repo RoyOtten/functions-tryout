@@ -1,5 +1,5 @@
 def automatic(naam , leeftijd):
-    print('hello' + naam + 'je leeftijd is ' + leeftijd) 
+    print('hello' + naam + ' je leeftijd is ' + leeftijd) 
 
 a = 0 
 while a <=1:
@@ -10,9 +10,9 @@ while a <=1:
     if input2 == 'stop':
         break
 
-    ognaam = input1
-    ogleeftijd = input2 
+    oknaam = input1
+    okleeftijd = input2 
 
-automatic(ognaam,ogleeftijd) 
+automatic(oknaam,okleeftijd) 
 
     
